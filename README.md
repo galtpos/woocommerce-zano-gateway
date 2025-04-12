@@ -45,8 +45,7 @@ Zano is a private-by-default cryptocurrency built for secure and untraceable tra
 ---
 
 ## 🧪 Example Screenshot
-
-![Zano Thank You Page](https://user-images.githubusercontent.com/example/zanogateway.png)
+![plugingithub](https://github.com/user-attachments/assets/e75353fa-25c8-4858-9d86-da2c6932d483)
 
 ---
 
